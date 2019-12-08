@@ -11,6 +11,7 @@ class MWSProduct{
     public $product_id;
     public $product_id_type;
     public $condition_type = 'New';
+    public $condition_note;
     public $sale_price;
     public $title;
     public $image_1;
